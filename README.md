@@ -9,7 +9,7 @@
         </ul>
     </li>
     <br>
-    <li><strong>Hyper paramter tuning was done to find best K</strong>
+    <li><strong>Hyper paramter tuning was done to find best K</strong><br/><br/>
         <b>Brief Description</b>
      <p>
     
